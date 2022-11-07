@@ -42,7 +42,7 @@ public abstract class InputDescriptor {
     
     public class Number extends InputDescriptor {
         
-        public Number(double min, double max) {
+        public Number(double min, double max, int decimals) {
             // TODO
         }
         
